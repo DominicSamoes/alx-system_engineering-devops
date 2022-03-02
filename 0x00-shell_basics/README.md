@@ -14,4 +14,5 @@ Task 12 Prints the type of the file named iamafile
 Task 13 Creates a symbolic link to /bin/ls, named __ls__
 Task 14 Copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 Task 15 Moves all files beginning with an uppercase letter to the directory /tmp/u
-Task 16 Deletes all files in the current working directory that end with the character ~
+Task 16 Deletes all files in the current working directory that end with the character 
+Task 17 Creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
