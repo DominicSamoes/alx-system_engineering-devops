@@ -1,2 +1,2 @@
 #!/bin/bash
-$./alx-system_engineering-devops $'\n' 
+$./0x00-shell_basics $'\n' 
