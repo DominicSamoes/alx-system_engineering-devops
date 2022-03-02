@@ -16,3 +16,4 @@ Task 14 Copies all the HTML files from the current working directory to the pare
 Task 15 Moves all files beginning with an uppercase letter to the directory /tmp/u
 Task 16 Deletes all files in the current working directory that end with the character 
 Task 17 Creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+Task 18 Lists all the files and directories of the current directory, separated by commas.
