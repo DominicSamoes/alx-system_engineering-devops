@@ -6,4 +6,5 @@ Task 4 The script displays current directory contents, including hidden files us
 Task 5 Display current directory with more information
 Task 6 Script that creates a directory named my first directory in the /tmp/ directory
 Task 7 Move the file betty from /tmp/ to /tmp/my first directory
+Task 8 Delete the file betty
 
