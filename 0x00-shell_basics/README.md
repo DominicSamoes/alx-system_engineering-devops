@@ -5,4 +5,5 @@ Task 3 The script displays current directory contents in a long format.
 Task 4 The script displays current directory contents, including hidden files using the long format
 Task 5 Display current directory with more information
 Task 6 Script that creates a directory named my first directory in the /tmp/ directory
+Task 7 Move the file betty from /tmp/ to /tmp/my first directory
 
