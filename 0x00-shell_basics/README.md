@@ -11,6 +11,8 @@ Task 9 Delete the directory my first directory that is in the /tmp directory.
 Task 10 Changes the working directory to the previous one.
 Task 11 Script that lists all files
 Task 12 Prints the type of the file named iamafile
+Task 13 Creates a symbolic link to /bin/ls, named __ls__
+
 
 
 
