@@ -12,3 +12,4 @@ Task 10 Sets mode of the file hello to be the same as olleh's.
 Task 11 Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 Task 12 Creates a directory with permissions 751 in the working directory. 
 Task 13 Changes the group owner to school for the file hello.
+Task 14 Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
