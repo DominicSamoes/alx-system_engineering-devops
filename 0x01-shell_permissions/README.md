@@ -7,3 +7,4 @@ Task 5 Adds execute permission to owner of file.
 Task 6 Adds execute permission to owner and group owner, and read permission to other users ofile helo.
 Task 7 Adds  execution permission to the owner, the group owner and the other users, to the file hello.
 Task 8 Permission to file hello, Owner and Group-No permission, Other-All permissions.
+Task 9 Sets mode of hello to -rwxr-x-wx.
