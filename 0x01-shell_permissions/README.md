@@ -9,4 +9,5 @@ Task 7 Adds  execution permission to the owner, the group owner and the other us
 Task 8 Permission to file hello, Owner and Group-No permission, Other-All permissions.
 Task 9 Sets mode of hello to -rwxr-x-wx.
 Task 10 Sets mode of the file hello to be the same as olleh's.
-Task 11 Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
+Task 11 Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+Task 12 Creates a directory with permissions 751 in the working directory. 
