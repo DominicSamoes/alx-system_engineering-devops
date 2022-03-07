@@ -17,3 +17,4 @@ Task 15, Script that displays  the number of lines that contain the pattern “b
 Task 16, Script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 Task 17, Script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 TAsk 18, Script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+Task 19, Script that replace all characters A and c from input to Z and e respectively.
