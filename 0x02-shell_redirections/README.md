@@ -20,3 +20,4 @@ TAsk 18, Script that displays all lines of the file /etc/ssh/sshd_config startin
 Task 19, Script that replace all characters A and c from input to Z and e respectively.
 Task 20, Script that removes all letters c and C from input.
 Task 21, Script that reverses its input.
+Task 22, Script that displays all users and their home directories, sorted by users.
