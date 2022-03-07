@@ -21,3 +21,4 @@ Task 19, Script that replace all characters A and c from input to Z and e respec
 Task 20, Script that removes all letters c and C from input.
 Task 21, Script that reverses its input.
 Task 22, Script that displays all users and their home directories, sorted by users.
+Task 23, Script that writes a command that finds all empty files and directories in the current directory and all sub-directories.
