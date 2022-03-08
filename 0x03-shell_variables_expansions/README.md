@@ -6,3 +6,4 @@ Task 4, Script that lists environment variables.
 Task 5, Script lists all local variables and environment variables, and functions.
 Task 6, Script hat creates a new local variable, Name- BEST and Value- School.
 Task 7, Script creates a new global variable, NAme- BEST and Value- School.
+Task 8, Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
