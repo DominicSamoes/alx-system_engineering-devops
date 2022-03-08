@@ -9,3 +9,4 @@ Task 7, Script creates a new global variable, NAme- BEST and Value- School.
 Task 8, Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 Task 9, Script that prints the result of POWER divided by DIVIDE, followed by a new line.
 Task 10, Script that displays the result of BREATH to the power LOVE.
+Task 11, Script that converts a number from base 2 to base 10.
