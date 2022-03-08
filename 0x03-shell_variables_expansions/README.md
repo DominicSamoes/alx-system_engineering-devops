@@ -7,3 +7,4 @@ Task 5, Script lists all local variables and environment variables, and function
 Task 6, Script hat creates a new local variable, Name- BEST and Value- School.
 Task 7, Script creates a new global variable, NAme- BEST and Value- School.
 Task 8, Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+Task 9, Script that prints the result of POWER divided by DIVIDE, followed by a new line.
