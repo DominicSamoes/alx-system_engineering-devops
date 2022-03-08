@@ -5,3 +5,4 @@ Task 3, Script that counts the number of directories in the PATH.
 Task 4, Script that lists environment variables.
 Task 5, Script lists all local variables and environment variables, and functions.
 Task 6, Script hat creates a new local variable, Name- BEST and Value- School.
+Task 7, Script creates a new global variable, NAme- BEST and Value- School.
