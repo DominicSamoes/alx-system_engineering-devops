@@ -2,7 +2,7 @@
 #Script prints the FizzBuzz sequence from 1 to 100
 for c in {1..100}
 do
-	if [ $((c % 3)) -eq 0 -a $((c % 5)) -eq 0 ]
+	if [ $((c % 5)) -eq 0 ] && [ $((c % 3)) -eq 0 ]
 	then
 		echo "FizzBuzz"
 	elif [ $((c % 3)) -eq 0 ]

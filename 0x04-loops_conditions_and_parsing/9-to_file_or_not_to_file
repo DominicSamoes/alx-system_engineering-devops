@@ -5,7 +5,7 @@ if [ -e $file  ]
 then
 	echo "$file file exists"
 
-	if [-s $file ]
+	if [ -s $file ]
 	then
 		echo "$file file is not empty"
 	else
