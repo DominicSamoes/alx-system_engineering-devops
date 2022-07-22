@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#Script lists files in directory
+for c in *
+do
+	echo "$c" | cut -f 2- -d '-'
+done
