@@ -151,6 +151,19 @@ Requirements:
 	- Otherwise, displays the number
 	- In a list format
 
+### [11. Read and cut](./100-read_and_cut)
+* Write a Bash script that displays the content of the file /etc/passwd.
+
+* Your script should only display:
+
+	- username
+	- user id
+	-  Home directory path for the user
+
+* Requirements:
+
+	- You must use the while loop (for and until are forbidden)
+
 
 
 ---
