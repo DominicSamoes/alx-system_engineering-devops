@@ -186,6 +186,17 @@ Requirements:
 	- You are not allowed to use while, for, until and cut
 	- Download and commit the apache-access.log file along with your answers files
 
+### [14. Dig the data](./103-dig_the-data)
+* write a Bash script that groups visitors by IP and HTTP status code, and displays this data.
+
+* Requirements:
+
+	- The exact format must be:
+		+ OCCURENCE_NUMBER IP HTTP_CODE
+		+ In list format
+	- Ordered from the greatest to the lowest number of occurrences
+	- You must use awk
+	- You are not allowed to use while, for, until and cut
 
 
 ---
