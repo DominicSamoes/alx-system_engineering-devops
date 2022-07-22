@@ -48,6 +48,9 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x04. Loops, conditions and parsing Tasks](./0x04-loops_conditions_and_parsing)
 
+### [This repository contains 0x05. Processes and signals Tasks](./0x05-processes_and_signals)
+
+
 
 
 
