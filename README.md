@@ -46,5 +46,10 @@ Complete the 9 next tasks, getting to 18 total.
 ### [2. Reach the perfect cube, 27](2-next_9_tasks.png)
 Complete the 9 next tasks, getting to 27 total.
 
+### [This repository contains 0x04. Loops, conditions and parsing Tasks](./0x04-loops_conditions_and_parsing)
+
+
+
+
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
