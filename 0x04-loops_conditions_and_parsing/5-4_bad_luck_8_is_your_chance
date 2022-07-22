@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times using while
+# Displays bad luck for 4th loop iteration
+# Displays good luck for the 8th loop iteration
+c=1
+while [ $c -le 10 ]
+do
+	if [ $c -eq 4 ]
+	then
+		echo "bad luck"
+	elif [ $c -eq 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	((c++))	
+done
