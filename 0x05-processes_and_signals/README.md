@@ -35,6 +35,14 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [0. What is my PID](./0-what-is-my-pid)
 * Write a Bash script that displays its own PID.
 
+### [1. List your processes](./1-list_your_processes)
+* processes.
+
+* Requirements:
+
+	- Must show all processes, for all users, including those which might not have a TTY
+	- Display in a user-oriented format
+	- Show process hierarchy
 
 
 
