@@ -54,6 +54,12 @@ These are all the tasks of this project, the ones that are completed link to the
 
 	- Ruby script that accepts one argument and pass it to a regular expression matching method that has to match a repetition token.
 
+### [5. Not quite HBTN yet](./5-beginning_and_end.rb)
+* Requirements:
+
+	- The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between
+	- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
+
 
 ---
 
