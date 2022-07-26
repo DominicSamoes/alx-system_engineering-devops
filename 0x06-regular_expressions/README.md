@@ -33,7 +33,18 @@ These are all the tasks of this project, the ones that are completed link to the
 	- The regular expression must match School
 	- Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
+### [1. Repetition Token #0](./1-repetition_token_0.rb)
 
+* Requirements:
+
+	- Ruby script that accepts one argument and pass it to a regular expression matching method that has to match a repetition token.
+
+### [2. Repetition Token #1](./2-repetition_token_1.rb)
+* Requirements:
+
+        - Ruby script that accepts one argument and pass it to a regular expression matching method that has to match a repetition token.
+
+### [
 
 ---
 
