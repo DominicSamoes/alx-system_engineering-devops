@@ -51,7 +51,7 @@ Complete the 9 next tasks, getting to 27 total.
 ### [This repository contains 0x05. Processes and signals Tasks](./0x05-processes_and_signals)
 
 
-### [This repository contains 0x06. Regular expression Tasks](./0-simply_match_school.rb)
+### [This repository contains 0x06. Regular expression Tasks](./0x06-regular_expressions)
 
 
 
