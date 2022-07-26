@@ -70,6 +70,13 @@ These are all the tasks of this project, the ones that are completed link to the
 
 	- The regular expression must be only matching: capital letters
 
+### [8. Textme](./100-textme.rb)
+* Requirements:
+
+	- Your script should output: [SENDER],[RECEIVER],[FLAGS]
+		+ The sender phone number or name (including country code if present)
+		+ The receiver phone number or name (including country code if present)
+		+ The flags that were used
 
 ---
 
