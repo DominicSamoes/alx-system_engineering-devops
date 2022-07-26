@@ -44,7 +44,12 @@ These are all the tasks of this project, the ones that are completed link to the
 
         - Ruby script that accepts one argument and pass it to a regular expression matching method that has to match a repetition token.
 
-### [
+### [3. Repetition Token #2](./3-repetition_token_2.rb)
+* Requirements:
+
+        - Ruby script that accepts one argument and pass it to a regular expression matching method that has to match a repetition token.
+
+
 
 ---
 
