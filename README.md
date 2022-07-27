@@ -54,6 +54,11 @@ Complete the 9 next tasks, getting to 27 total.
 ### [This repository contains 0x06. Regular expression Tasks](./0x06-regular_expressions)
 
 
+### [This repository contains 0x07. Networking basics #0 Tasks](./0x07-networking_basics)
+
+
+
+
 
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
