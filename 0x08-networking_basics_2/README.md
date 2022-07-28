@@ -41,7 +41,7 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [1. Show attached IPs](./1-show_attached_IPs)
 * Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
 
-### [./1-show_attached_IPs | cat -e](./100-port_listening_on_localhost)
+### [100-port_listening_on_localhost](./100-port_listening_on_localhost)
 *  Bash script that listens on port 98 on localhost.
 
 ---
