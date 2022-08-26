@@ -59,6 +59,8 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x08. Networking basics #1 Tasks](./0x08-networking_basics_2)
 
+### [This repository contains 0x09. Web infrastructure design Tasks](./0x09-web_infrastructure_design)
+
 
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
