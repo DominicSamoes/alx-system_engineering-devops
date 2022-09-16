@@ -62,5 +62,7 @@ Complete the 9 next tasks, getting to 27 total.
 ### [This repository contains 0x09. Web infrastructure design Tasks](./0x09-web_infrastructure_design)
 
 
+### [This repository contains 0x0A. Configuration management](./0x0A-configuration_management)
+
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
