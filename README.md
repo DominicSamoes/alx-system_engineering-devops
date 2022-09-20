@@ -64,7 +64,7 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x0A. Configuration management Tasks](./0x0A-configuration_management)
 
-### [This repository contains 0x0C. Web server Tasks](./home/dominic/ALX/alx-system_engineering-devops/0x0C-web_server)
+### [This repository contains 0x0C. Web server Tasks](./0x0C-web_server)
 
 
 ### [This repository contains 0x0D. Web stack debugging #0 Tasks](./0x0D-web_stack_debugging_0)
