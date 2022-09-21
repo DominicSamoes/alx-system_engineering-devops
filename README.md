@@ -64,6 +64,8 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x0A. Configuration management Tasks](./0x0A-configuration_management)
 
+### [This repository contains 0x0B. SSH](./0x0B-ssh)
+
 ### [This repository contains 0x0C. Web server Tasks](./0x0C-web_server)
 
 
