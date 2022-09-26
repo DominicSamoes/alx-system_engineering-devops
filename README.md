@@ -64,13 +64,15 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x0A. Configuration management Tasks](./0x0A-configuration_management)
 
-### [This repository contains 0x0B. SSH](./0x0B-ssh)
+### [This repository contains 0x0B. SSH Tasks](./0x0B-ssh)
 
 ### [This repository contains 0x0C. Web server Tasks](./0x0C-web_server)
 
 
 ### [This repository contains 0x0D. Web stack debugging #0 Tasks](./0x0D-web_stack_debugging_0)
 
+
+### [This repository contains 0x0F. Load balancer Tasks](./0x0F-load_balancer)
 
 
 ### Author
