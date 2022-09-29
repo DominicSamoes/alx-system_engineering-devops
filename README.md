@@ -71,8 +71,12 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x0D. Web stack debugging #0 Tasks](./0x0D-web_stack_debugging_0)
 
+### [This repository conatins 0x0E. Web stack debugging #1 Tasks](./0x0E-web_stack_debugging_1)
+
 
 ### [This repository contains 0x0F. Load balancer Tasks](./0x0F-load_balancer)
+
+
 
 
 ### Author
