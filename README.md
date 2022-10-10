@@ -1,42 +1,3 @@
-# System Engineering Dev Ops
-
-## Description
-
-Tasks on .
-
-What I learned from the tasks:
-
-* To be added
-
----
-
-# Tasks
-
-These are all the tasks of this project, the ones that are completed link to the corresponding files.
-
-## Shell
-* This repository contains 0x00. Shell, basics tasks.
-* This repository also contains 0x01. Shell, permissions.
-* It also contains 0x02. Shell, I/O Redirections and filters.
-* The repo contains 0x03. Shell, init files, variables and expansions tasks.
-
----
-
-## Command line for the win
-
-* Background Context:
-
-	- [CMD CHALLENGE](https://cmdchallenge.com/#/last_lines) is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated.
-
-
-* Requirements
-	- General
-		+ A README.md file, at the root of the folder of the project, is mandatory
-		+ This project will be manually reviewed.
-		+ As each task is completed, the name of that task will turn green
-		+ Create a screenshot, showing that you completed the required levels
-		+ Push this screenshot with the right name to GitHub, in either the PNG or JPEG format
-		
 ### [0. First 九 tasks](0-first_9_tasks.png)
 Complete the 9 next tasks, getting to 18 total.
 
@@ -76,7 +37,7 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x0F. Load balancer Tasks](./0x0F-load_balancer)
 
-
+### [This repository conatins 0x13. Firewall Tasks](./0x13-firewall)
 
 
 ### Author
