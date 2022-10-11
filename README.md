@@ -41,5 +41,7 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x14. MySQL Tasks](./0x14-mysql)
 
+### [This repository contains 0x12 Web Stack Debugging #2 Tasks](./0x12-web_stack_debugging_2)
+
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
