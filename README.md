@@ -37,8 +37,9 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x0F. Load balancer Tasks](./0x0F-load_balancer)
 
-### [This repository conatins 0x13. Firewall Tasks](./0x13-firewall)
+### [This repository contains 0x13. Firewall Tasks](./0x13-firewall)
 
+### [This repository contains 0x14. MySQL Tasks](./0x14-mysql)
 
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
