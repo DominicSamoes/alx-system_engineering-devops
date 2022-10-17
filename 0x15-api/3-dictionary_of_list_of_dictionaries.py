@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 """Exports data in the JSON format"""
 
-if __name__ == "__main__":
+import json
+import requests
+import sys
 
-    import json
-    import requests
-    import sys
+if __name__ == "__main__":
 
     users = requests.get("https://jsonplaceholder.typicode.com/users")
     users = users.json()
