@@ -47,8 +47,9 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x16. API advanced Tasks](./0x16-api_advanced)
 
+### [This repository contains 0x17. Web stack debugging #3 Tasks](./0x17-web_stack_debugging_3)
 
-### [This repository contains 0x17. Web stack debugging #3](./0x17-web_stack_debugging_3)
+### [This repository contains 0x18. Webstack Monitoring Tasks](./0x18-webstack_monitoring)
 
 
 ### Author
