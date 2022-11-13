@@ -51,6 +51,10 @@ Complete the 9 next tasks, getting to 27 total.
 
 ### [This repository contains 0x18. Webstack Monitoring Tasks](./0x18-webstack_monitoring)
 
+### [This repository contains 0x1A. Application server Tasks](./0x1A-application_server)
+
+### [This repository contains 0x1B. Web stack debugging #4 Tasks](./0x1B-web_stack_debugging_4)
+
 
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
